@@ -175,6 +175,8 @@ public class TicTacToeFrame extends JFrame
                     jlblStatus.setText(whoseTurn + "'s turn.");
                 }
             }
+        private void reset
+
         } // end class MyMouseListener
     } // end class Cell
 } // end class TicTacToeFrame
