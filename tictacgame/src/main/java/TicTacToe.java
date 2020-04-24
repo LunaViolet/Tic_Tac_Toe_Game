@@ -11,7 +11,7 @@ public class TicTacToe {
     {
         JFrame ticTacToe = new tictactoe.TicTacToeFrame();
         ticTacToe.setTitle("Luna TicTacToe Game");
-        ticTacToe.setSize(600, 600);
+        ticTacToe.setSize(700, 700);
         ticTacToe.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         ticTacToe.setLocationRelativeTo(null);
         ticTacToe.setVisible(true);
